@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\CasinoRoyale.exe.config
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\CasinoRoyale.exe
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\CasinoRoyale.pdb
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\CasinoRoyale.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\CasinoRoyale.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\CasinoRoyale.exe
+C:\Users\Ryan\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\CasinoRoyale.pdb
